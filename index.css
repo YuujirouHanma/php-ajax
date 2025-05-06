@@ -1,0 +1,50 @@
+body {
+    background-color: #f5e0c0; /* Warna terang dari palet */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #5c3b1e; /* Warna teks agak gelap */
+  }
+  
+  h2, h3 {
+    color: #8b5c34; /* Warna coklat sedang */
+  }
+  
+  form {
+    background-color: #d9b382; /* Warna form lebih soft */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-width: 500px;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #b68c61; /* Border soft coklat */
+    border-radius: 5px;
+    background-color: #f9f3eb;
+  }
+  
+  button {
+    background-color: #a86d32; /* Tombol warna coklat lebih gelap */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #7c4f23; /* Warna saat hover */
+  }
+  
+  #comments p {
+    background-color: #e0c199;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
